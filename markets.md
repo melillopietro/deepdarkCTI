@@ -62,6 +62,7 @@
 |[HYDRA (Deep)](https://hydramarket.co)| ONLINE | |
 |[HYDRA (Tor v2)](http://hydra3rudf3j4hww.onion)| OFFLINE | |
 |[HYDRA (Tor v3)](http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion)| OFFLINE | |
+|[Kerberos](http://kerber6yh4y5d2tu2wuwzkpgec5i5lvcahncm77h3m3esl2elfmrynad.onion/)| ONLINE | |
 |[INDUSTRIAL SPY](http://spyarea23ttlty6qav3ecmbclpqym3p32lksanoypvrqm6j5onstsjad.onion/user/login)| ONLINE | |
 |[INFINITY SHOP](http://infinityvzoe2ldb74y2klk7cs3nda2n3qozdy7sdgfouqrzfkp64sid.onion)| ONLINE | |
 |[Intel Repository](http://intelrepository.com/)|ONLINE|Sale of Defense Contractor and Military Files|
